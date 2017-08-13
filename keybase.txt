@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/saro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sarora.io
+  * I am saro (https://keybase.io/saro) on keybase.
+  * I have a public key ASAS8sEuopA7OLqBGH4LVfHCKcD49mX-D0mmCriBcSQOIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014a905505f4e8bdb9d8d462b298ba4e440c34a0772debff074617f54590fbb7fa0a",
+      "host": "keybase.io",
+      "kid": "012012f2c12ea2903b38ba81187e0b55f1c229c0f8f665fe0f49a60ab88171240e200a",
+      "uid": "6358ac1bcea4ddabd299003c75c92e19",
+      "username": "saro"
+    },
+    "merkle_root": {
+      "ctime": 1502596672,
+      "hash": "2afa66c42f7a533ee95b42d29f3a6abded9b4c09394ae7081125665774e6a254291a854ad2ee09739cab52a7fc90f814c64a339746d048b8ffed5c5d55aab627",
+      "hash_meta": "1aa0ddcaca9e1fe1fa2a2af91464b2b9884aff77b35258ec43a98bf84ced236a",
+      "seqno": 1322681
+    },
+    "service": {
+      "hostname": "sarora.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1502596984,
+  "expire_in": 504576000,
+  "prev": "8a30cc2500efd838b3425c4adad17299395a24e916b2275a85892c4b298999b0",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEvLBLqKQOzi6gRh+C1XxwinA+PZl/g9Jpgq4gXEkDiAKp3BheWxvYWTFAz17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNGE5MDU1MDVmNGU4YmRiOWQ4ZDQ2MmIyOThiYTRlNDQwYzM0YTA3NzJkZWJmZjA3NDYxN2Y1NDU5MGZiYjdmYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTJmMmMxMmVhMjkwM2IzOGJhODExODdlMGI1NWYxYzIyOWMwZjhmNjY1ZmUwZjQ5YTYwYWI4ODE3MTI0MGUyMDBhIiwidWlkIjoiNjM1OGFjMWJjZWE0ZGRhYmQyOTkwMDNjNzVjOTJlMTkiLCJ1c2VybmFtZSI6InNhcm8ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDI1OTY2NzIsImhhc2giOiIyYWZhNjZjNDJmN2E1MzNlZTk1YjQyZDI5ZjNhNmFiZGVkOWI0YzA5Mzk0YWU3MDgxMTI1NjY1Nzc0ZTZhMjU0MjkxYTg1NGFkMmVlMDk3MzljYWI1MmE3ZmM5MGY4MTRjNjRhMzM5NzQ2ZDA0OGI4ZmZlZDVjNWQ1NWFhYjYyNyIsImhhc2hfbWV0YSI6IjFhYTBkZGNhY2E5ZTFmZTFmYTJhMmFmOTE0NjRiMmI5ODg0YWZmNzdiMzUyNThlYzQzYTk4YmY4NGNlZDIzNmEiLCJzZXFubyI6MTMyMjY4MX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzYXJvcmEuaW8iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI3In0sImN0aW1lIjoxNTAyNTk2OTg0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjhhMzBjYzI1MDBlZmQ4MzhiMzQyNWM0YWRhZDE3Mjk5Mzk1YTI0ZTkxNmIyMjc1YTg1ODkyYzRiMjk4OTk5YjAiLCJzZXFubyI6MzMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAOJHQLnlONO0SpBynGIV4Ne/XzA6BNcktWwAQdHfPDcUPtgRyJdZ1ScJ2LWN/+qT0QVe6jZxjAkqvsExZp6fbB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN7MBPH14oKRFUr12xB19LpB61r6Wm3XnQRn3PKkK6+vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saro
+
+==================================================================
