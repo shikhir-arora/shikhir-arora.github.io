@@ -114,15 +114,19 @@
      margin-bottom : -2px;
 }
  .papers, .subDetails {
-     margin-bottom : 3px;
+     margin-bottom: 10px;
      font-size : 1em;
 }
  .subDetails {
      font-style : italic;
+     padding-bottom: 1em;
+     margin-bottom: -0.1em;
+     margin-top: -0.1em;
 }
  .papers {
      font-style : italic;
      text-decoration : underline;
+     padding-bottom: 10px;
 }
  .keySkills {
      list-style-type : none;
